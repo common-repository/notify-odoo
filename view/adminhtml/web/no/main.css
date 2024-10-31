@@ -1,0 +1,6 @@
+
+.debugging-tips {padding: 20px;}
+.debugging-tips textarea {resize: both;}
+
+.no-section .no-fieldset input.no-timeout {width:60px}
+.no-section .no-fieldset .no-config-option-note {color: grey; font-style: italic;}
